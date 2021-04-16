@@ -1,4 +1,4 @@
-import "regenerator-runtime/runtime";
+import "regenerator-runtime/runtime"; //ignore
 
 const formsIds = ['overview-form', 'solutions-form', 'service-form', 'faq-form', 'video-form', 'news-form','event-form'];
 
